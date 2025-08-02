@@ -1,8 +1,7 @@
 
 
 
-
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sona IM</h1>
 - 🌱 I’m currently **a final-year B.E. student at BNMIT, specializing in Computer Science and Engineering.**<br>📫 How to reach me sonaim72595@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
